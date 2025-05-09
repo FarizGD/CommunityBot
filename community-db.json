@@ -1,0 +1,169 @@
+{
+  "user": {
+    "6285191016145@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6288708058243@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "120363366790950043@newsletter": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "120363384622661432@newsletter": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    },
+    "6285179735436@s.whatsapp.net": {
+      "name": "Gak punya nama",
+      "limit": 100,
+      "register": false,
+      "rpg": {
+        "money": 0,
+        "exp": 0,
+        "lastGajian": 0,
+        "sampah": 0,
+        "botol": 0,
+        "kardus": 0,
+        "iron": 0,
+        "kayu": 0,
+        "kaleng": 0,
+        "gelas": 0,
+        "plastik": 0,
+        "lastMulung": 0,
+        "lastTaxy": 0
+      },
+      "level": 1,
+      "bank": 0,
+      "coin": 0,
+      "premium": {
+        "status": false,
+        "expired": 0
+      },
+      "banned": {
+        "status": false,
+        "expired": 0
+      }
+    }
+  },
+  "group": {},
+  "changelog": {},
+  "settings": {
+    "self": false,
+    "online": true,
+    "anticall": false,
+    "blockcmd": [],
+    "max_upload": "50MB",
+    "resetlimit": "02:00"
+  }
+}
