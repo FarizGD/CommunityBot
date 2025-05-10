@@ -1,4 +1,4 @@
-![Logo]([https://files.catbox.moe/58x9zu.jpg])
+![Logo](https://files.catbox.moe/58x9zu.jpg)
 
 **😼 CommunityBot | 1.7.0** | ***create by FarizGD***
 
