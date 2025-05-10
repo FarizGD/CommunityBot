@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AxellNetwork/nekoBot.git"
+    "url": "git+https://github.com/FarizGD/CommunityBot.git"
   },
   "keywords": [
     "botwa"
@@ -19,13 +19,13 @@
   "author": "Axel_Team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AxellNetwork/nekoBot/issues"
+    "url": "https://github.com/FarizGD/CommunityBot/issues"
   },
-  "homepage": "https://github.com/AxellNetwork/nekoBot#readme",
+  "homepage": "https://github.com/FarizGD/CommunityBot#readme",
   "dependencies": {
     "acrcloud": "^1.4.0",
     "async-lock": "^1.4.1",
-    "baileys": "github:AxellNetwork/Baileys",
+    "baileys": "github:FarizGD/Baileys",
     "cfonts": "latest",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0",
