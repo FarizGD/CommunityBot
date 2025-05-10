@@ -1,6 +1,7 @@
 ![Logo](https://files.catbox.moe/58x9zu.jpg)
 
-**😼 CommunityBot | 1.7.0** | ***create by FarizGD***
+**😼 CommunityBot | 1.7.0** | ***create by Da Bois***
+(https://is.gd/CommunityBot)
 
 
 ```> Simple WhatsApp bot Using Library Baileys```
